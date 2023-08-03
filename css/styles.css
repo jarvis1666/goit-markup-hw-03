@@ -308,3 +308,6 @@ img {
   border-top: none;
   margin-bottom: 8px;
 }
+.width {
+  width: calc((100%-48px) / 3);
+}
