@@ -181,7 +181,7 @@ img {
   gap: 24px;
 }
 .quality-list {
-  width: calc((100%-72px) / 4);
+  width: calc((100% - 72px) / 4);
 }
 .quality-name {
   color: var(--color-base);
@@ -216,7 +216,7 @@ img {
   gap: 24px;
 }
 .images-list {
-  width: calc((100%-48px) / 3);
+  width: calc((100% - 48px) / 3);
 }
 
 /*Секція 4 команда (класи work-name   quality-name   quality-text використовуються з попереднього )*/
@@ -229,7 +229,7 @@ img {
 }
 .team-section {
   background-color: var(--color-white);
-  width: calc((100%-72px) / 4);
+  width: calc((100% - 72px) / 4);
   border-radius: 0px 0px 4px 4px;
 }
 .team-techskill {
@@ -300,14 +300,11 @@ img {
   row-gap: 48px;
 }
 .portfolio-images-list {
-  width: calc((100%-48px) / 3);
+  width: calc((100% - 48px) / 3);
 }
 .portfolio-images-name {
   padding: 32px 16px;
   border: 1px solid var(--color-cornflower);
   border-top: none;
   margin-bottom: 8px;
-}
-.width {
-  width: calc((100%-48px) / 3);
 }
