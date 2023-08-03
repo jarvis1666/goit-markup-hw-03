@@ -103,7 +103,6 @@ img {
 .menu {
   display: flex;
   gap: 40px;
-  padding: 24px 0;
 }
 .navigation {
   color: var(--color-base);
@@ -112,6 +111,7 @@ img {
   list-style-type: none;
   text-decoration: none;
   letter-spacing: 0.02em;
+  padding: 24px 0;
 }
 .navigation:hover,
 .navigation:focus,
@@ -264,7 +264,7 @@ img {
   max-width: 264px;
 }
 .section-porfolio {
-  padding-top: 90px;
+  padding-top: 96px;
   padding-bottom: 120px;
 }
 .container-button {
